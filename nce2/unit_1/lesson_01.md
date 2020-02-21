@@ -4,7 +4,7 @@
   <h4>First listen and then answer the question.</h4>
   <audio controls="controls" style="height: 30px; position: relative; top: 5px; left: 10px;">
     <source
-      src="https://fdfs.xmcdn.com/group77/M06/76/DC/wKgO315PMRzBUzXpAAnS0Un9dO0638.m4a" 
+      src="https://git.lug.ustc.edu.cn/smpower/nce2-aep/raw/master/01.mp3" 
       type="audio/mpeg"
     >
     <i>Your browser does not support the audio element.</i>
