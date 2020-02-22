@@ -1,15 +1,8 @@
 # Lesson 1 A private conversation
 
-<div style="display: flex; justify-content: flex-start; align-items: center;">
-  <h4>First listen and then answer the question.</h4>
-  <audio controls="controls" style="height: 30px; position: relative; top: 5px; left: 10px;">
-    <source
-      src="https://git.lug.ustc.edu.cn/smpower/nce2-aep/raw/master/01.mp3" 
-      type="audio/mpeg"
-    >
-    <i>Your browser does not support the audio element.</i>
-   </audio>
-</div>
+#### First listen and then answer the question.
+
+{% nce src="01.mp3",book="2" %}{% endnce %}
 
 *Why did the writer complain to the people behind him?*
 
