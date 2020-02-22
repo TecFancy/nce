@@ -2,7 +2,7 @@
 
 #### First listen and then answer the question.
 
-{% nce src="01.mp3",book="2" %}{% endnce %}
+{% nceAudio src="01.mp3",book="2" %}{% endnceAudio %}
 
 *Why did the writer complain to the people behind him?*
 
@@ -10,9 +10,7 @@ Last week I went to the theatre. I had a very good seat. The play was very inter
 
 'It's none of your business,' the yound man said rudely. 'This is a private conversation!'
 
-<div style="text-align: center;">
-![A private conversation.png](https://i.loli.net/2020/02/20/JlSDLb4QYtEki9B.png)
-<div>
+{% nceImage src="1.png",book="2" %}{% endnceImage %}
 
 #### New words and expressions
 

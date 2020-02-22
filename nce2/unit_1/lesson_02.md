@@ -2,7 +2,7 @@
 
 #### First listen and then answer the question.
 
-{% nce src="02.mp3",book="2" %}{% endnce %}
+{% nceAudio src="02.mp3",book="2" %}{% endnceAudio %}
 
 *Why was the writer's aunt surprised?*
 
@@ -16,9 +16,7 @@ It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lu
 
 'Dear me,' she said. 'Do you always get up so late? It's one o'clock!'
 
-<div style="text-align: center;">
-![Please send me card.png](https://i.loli.net/2020/02/21/cUeF6D8u2lZnkq4.png)
-<div>
+{% nceImage src="2.png",book="2" %}{% endnceImage %}
 
 #### New words and expressions
 

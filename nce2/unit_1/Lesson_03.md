@@ -2,15 +2,13 @@
 
 #### First listen and then answer the question.
 
-{% nce src="03.mp3",book="2" %}{% endnce %}
+{% nceAudio src="03.mp3",book="2" %}{% endnceAudio %}
 
 *How many cards did the writer send?*
 
 Postcards always spoil my holidays. Last summer, I went to Italy. I visited museums and sat in public gardens. A friendly waiter taught me a few words of Italian. Then he lent me a book. I read a few lines, but I did not understand a word. Everyday I thought about postcards. My holidays passed quickly, but I did not send cards to my friends. On the last day I made a big decision. I got up early and bought thirty-seven cards. I spent the whole day in my room, but I did not write a single card!
 
-<div style="text-align: center;">
-![Please Send Me a Card.png](https://i.loli.net/2020/02/21/Hp3yxVoUfFgtbiu.png)
-<div>
+{% nceImage src="3.png",book="2" %}{% endnceImage %}
 
 #### New words and expressions
 
