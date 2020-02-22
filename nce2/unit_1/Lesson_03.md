@@ -28,8 +28,6 @@ Postcards always spoil my holidays. Last summer, I went to Italy. I visited muse
 
 #### Notes on the text
 
-1. 
-
 #### 参考译文
 
 #### Summary writing
