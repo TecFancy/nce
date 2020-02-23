@@ -35,17 +35,3 @@ Last week I went to the theatre. I had a very good seat. The play was very inter
 4. pay attention, 注意。
 5. I could not bear it, 我无法忍受。其中的 it 是指上下文中的那对男女大声说话又不理会作者的愤怒目光。
 6. none of your business, 不关你的事。
-
-#### 参考译文
-
-#### Summary writing
-
-#### Key structures
-
-#### Exercises
-
-#### Multiple choice questions
-
-#### Sentences structure
-
-----

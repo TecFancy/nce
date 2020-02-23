@@ -29,7 +29,6 @@
     "edit-link",
     "github",
     "sitemap-general",
-    "gtalk",
     "hide-element",
     "-highlight",
     "nce"
@@ -60,13 +59,6 @@
     },
     "sitemap-general": {
       "prefix": "https://supermemo.ruofei.site/"
-    },
-    "gtalk": {
-      "clientID": "57d78aea7ea945e16976",
-      "clientSecret": "25953ac8037cf8fb54c53c8d958017215f204991",
-      "repo": "ruofei.site.gitalk",
-      "owner": "smpower",
-      "admin": ["smpower"]
     },
     "hide-element": {
       "elements": [".gitbook-link"]

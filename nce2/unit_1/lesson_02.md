@@ -32,17 +32,3 @@ It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lu
 2. What a day! 多么糟糕的天气！
 3. I'm coming to see you. 
 4. Dear me! 
-
-#### 参考译文
-
-#### Summary writing
-
-#### Key structures
-
-#### Exercises
-
-#### Multiple choice questions
-
-#### Sentences structure
-
-----

@@ -26,17 +26,5 @@ Postcards always spoil my holidays. Last summer, I went to Italy. I visited muse
 
 #### Notes on the text
 
-#### 参考译文
-
-#### Summary writing
-
-#### Key structures
-
-#### Exercises
-
-#### Multiple choice questions
-
-#### Sentences structure
-
-----
-
+1. a few words, 几句话。
+2. lent me a book 中，lent 是“借出”的意思。我们常说 lend sb. sth. 或 lend sth. to sb.。borrow 是“借入”的意思，常用的结构是 borrow sth. 或 borrow sth. from sb.。
