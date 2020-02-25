@@ -21,7 +21,7 @@ It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lu
 #### New words and expressions
 
 1. until (1.2) /ənˈtɪl/ *prep.* 直到
-2. outside (1.3) /ˌaʊtˈsaɪd , ˈaʊtsaɪd/ *adv.* 外面
+2. outside (1.3) /ˌaʊtˈsaɪd, ˈaʊtsaɪd/ *adv.* 外面
 3. ring (1.4) /rɪŋ/ (rang /ræŋ/, rung /rʌŋ/) *v.* （铃、电话等）响
 4. aunt (1.4) /ænt/ *n.* 姑，姨，婶，舅母
 5. repeat (1.9) /rɪˈpiːt/ *v.* 重复
