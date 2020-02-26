@@ -14,10 +14,10 @@ Postcards always spoil my holidays. Last summer, I went to Italy. I visited muse
 
 1. send (title) /send/ (sent /sent/, sent) *v.* 寄，送
 2. postcard (1.1) /ˈpoʊstkɑːrd/ *n.* 明星片
-3. spoil (1.1) /spɔɪl/ (spoiled //, spoilt //) *n.* 使索然无味，损坏
+3. spoil (1.1) /spɔɪl/ (spoiled /spɔɪld/, spoilt /spɔɪlt/) *v.* 使索然无味，损坏
 4. museum (1.2) /mjuˈziːəm/ *n.* 博物馆
 5. public (1.2) /ˈpʌblɪk/ *adj.* 公共的
-6. friendly (1.2) /ˈfrendli/ *adj.* 有好的
+6. friendly (1.2) /ˈfrendli/ *adj.* 友好的
 7. waiter (1.2) /ˈweɪtər/ *n.* 服务员，招待员
 8. lend (1.3) /lend/ (lent /lent/, lent) *v.* 借给
 9. decision (1.6) /dɪˈsɪʒn/ *n.* 决定
